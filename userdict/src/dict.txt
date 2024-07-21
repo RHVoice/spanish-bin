@@ -12,7 +12,7 @@ ed(ge=ch)
 bl(ue=u)t(oo=u)t
 google=gúguel
 facebook=féisbuk
-w(i=ai)-f(i=ai)
+w(i=ai)f(i=ai)
 pl(a=e)y
 mozilla=mocila
 youtube=yutub
@@ -25,6 +25,7 @@ gmail=llimeil
 (h=j)otm(a=e)il
 v(ie=í)wer
 g(a=uei)me
+pages=peidchs
 store=estor
 mouse=maus
 f(ile=ail){,s}
@@ -35,4 +36,5 @@ gpu/i
 url/i
 nvda/i
 ocds/i
-imc=índice de masa corporal
+ald/i
+imc/i

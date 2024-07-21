@@ -26,5 +26,7 @@
 <phoneme name="t" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-"/>
 <phoneme name="v" vc="-" son="-" cont="+" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
 <phoneme name="w" vc="-" son="+" cont="+" ctype="g" cplace="b" clab="+" cvox="+"/>
+<phoneme name="y" vc="-" son="+" cont="+" ctype="r" cplace="p" cvox="+"/>
+<phoneme name="yc" vc="-" son="+" cont="+" ctype="l" cplace="d" ccor="+" cvox="+"/>
 <phoneme name="pau"/>
 </phonemes>
