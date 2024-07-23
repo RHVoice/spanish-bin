@@ -1,8 +1,13 @@
 <phonemes>
 <phoneme name="a" vc="+" vheight="2" vfront="2" vrnd="-"/>
+<phoneme name="ai" vc="+" vlng="d" vheight="l" vfront="c" vrnd="-" vfrom="a" vto="i"/>
+<phoneme name="au" vc="+" vlng="d" vheight="l" vfront="c" vrnd="-" vfrom="a" vto="u"/>
 <phoneme name="e" vc="+" vheight="2" vfront="3" vrnd="-"/>
+<phoneme name="ei" vc="+" vlng="d" vheight="m" vfront="f" vrnd="-" vfrom="e" vto="i"/>
+<phoneme name="eu" vc="+" vlng="d" vheight="m" vfront="f" vrnd="-" vfrom="e" vto="u"/>
 <phoneme name="i" vc="+" vheight="3" vfront="3" vrnd="-"/>
 <phoneme name="o" vc="+" vheight="2" vfront="3" vrnd="+"/>
+<phoneme name="oi" vc="+" vlng="d" vheight="m" vfront="b" vrnd="+" vfrom="o" vto="i"/>
 <phoneme name="u" vc="+" vheight="3" vfront="2" vrnd="+"/>
 <phoneme name="b" vc="-" son="-" cont="-" ctype="s" cplace="b" clab="+" cvox="+"/>
 <phoneme name="ts" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="p" cvox="-"/>
@@ -27,6 +32,6 @@
 <phoneme name="v" vc="-" son="-" cont="+" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
 <phoneme name="w" vc="-" son="+" cont="+" ctype="g" cplace="b" clab="+" cvox="+"/>
 <phoneme name="y" vc="-" son="+" cont="+" ctype="r" cplace="p" cvox="+"/>
-<phoneme name="yc" vc="-" son="+" cont="+" ctype="l" cplace="d" ccor="+" cvox="+"/>
+<phoneme name="zh" vc="-" son="-" cont="+" ctype="f" cplace="d" ccor="+" cvox="-"/>
 <phoneme name="pau"/>
 </phonemes>

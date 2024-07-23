@@ -6,9 +6,13 @@ apple=ápol
 home=joum
 (i=í)nstagram
 t(e=é)legram
+(a=á)ndroid
+l(i=í)nux
 W(i=í)ndows
+high=jay
 tw(it=í)ter
 ed(ge=ch)
+messenger=mésenller
 bl(ue=u)t(oo=u)t
 google=gúguel
 facebook=féisbuk
@@ -23,12 +27,18 @@ chrome=croum
 scr(ee=i)n
 gmail=llimeil
 (h=j)otm(a=e)il
+Office=ófis
 v(ie=í)wer
 g(a=uei)me
 pages=peidchs
 store=estor
 mouse=maus
 f(ile=ail){,s}
+sp(ee=i)ch
+live=laiv
+p(y=ai)thon
+Fr(eu=oy)d
+ok=okey
 excel/1
 ; initialisms:
 cpu/i
@@ -38,3 +48,6 @@ nvda/i
 ocds/i
 ald/i
 imc/i
+ibm/i
+ocr/i
+usb/i
