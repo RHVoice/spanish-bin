@@ -36,6 +36,7 @@ mouse=maus
 f(ile=ail){,s}
 sp(ee=i)ch
 live=laiv
+r(ea=í)der
 p(y=ai)thon
 Fr(eu=oy)d
 ok=okey
