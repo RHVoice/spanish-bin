@@ -13,10 +13,10 @@ high=jay
 tw(it=í)ter
 ed(ge=ch)
 messenger=mésenller
-bl(ue=u)t(oo=u)t
+bluetoot=blutut
 google=gúguel
 facebook=féisbuk
-w(i=ai)f(i=ai)
+w(i=ai)f(i=ái)
 pl(a=e)y
 mozilla=mocila
 youtube=yutub
@@ -29,18 +29,25 @@ gmail=llimeil
 (h=j)otm(a=e)il
 Office=ófis
 v(ie=í)wer
-g(a=uei)me
+game=gueim
 pages=peidchs
 store=estor
 mouse=maus
+IPhone=áifon
+(i=ái)pad
 f(ile=ail){,s}
+charlie=charli
 sp(ee=i)ch
+(ju=yú)nior{,s}
 live=laiv
+lite=lait
+phone=foun
 r(ea=í)der
 p(y=ai)thon
 Fr(eu=oy)d
 ok=okey
 excel/1
+p(o=á)wer
 ; initialisms:
 cpu/i
 gpu/i
@@ -52,3 +59,6 @@ imc/i
 ibm/i
 ocr/i
 usb/i
+cne/i
+xos/i
+api/i
