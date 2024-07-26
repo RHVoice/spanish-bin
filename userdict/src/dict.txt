@@ -35,6 +35,7 @@ store=estor
 mouse=maus
 IPhone=áifon
 (i=ái)pad
+gym=llim
 f(ile=ail){,s}
 charlie=charli
 sp(ee=i)ch
