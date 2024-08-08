@@ -7,6 +7,7 @@ home=joum
 (i=í)nstagram
 t(e=é)legram
 (a=á)ndroid
+(a=á)mazon
 l(i=í)nux
 W(i=í)ndows
 high=jay
@@ -16,6 +17,8 @@ messenger=mésenller
 bluetoot=blutut
 google=gúguel
 facebook=féisbuk
+z(oo=u)m
+fake=feik
 w(i=ai)f(i=ái)
 pl(a=e)y
 mozilla=mocila
@@ -24,6 +27,7 @@ t(ea=i)m
 m(i=ái)crosoft
 (mail=meyl){,s}
 chrome=croum
+chromebook=cróumbuk
 scr(ee=i)n
 gmail=llimeil
 (h=j)otm(a=e)il
@@ -49,6 +53,11 @@ Fr(eu=oy)d
 ok=okey
 excel/1
 p(o=á)wer
+México=Méjico
+mexicano=mejicano
+mexicana=mejicana
+mexicanos=mejicanos
+mexicanas=mejicanas
 ; initialisms:
 cpu/i
 gpu/i
