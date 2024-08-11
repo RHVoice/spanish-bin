@@ -53,6 +53,8 @@ Fr(eu=oy)d
 ok=okey
 excel/1
 p(o=á)wer
+software=sóftuer
+hardware=járduer
 México=Méjico
 mexicano=mejicano
 mexicana=mejicana
