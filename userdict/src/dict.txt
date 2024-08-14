@@ -36,6 +36,7 @@ v(ie=í)wer
 game=gueim
 pages=peidchs
 store=estor
+brai(ll=l)e
 mouse=maus
 IPhone=áifon
 (i=ái)pad
@@ -55,6 +56,7 @@ excel/1
 p(o=á)wer
 software=sóftuer
 hardware=járduer
+voice=vois
 México=Méjico
 mexicano=mejicano
 mexicana=mejicana
