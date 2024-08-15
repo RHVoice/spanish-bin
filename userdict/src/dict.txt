@@ -3,6 +3,7 @@
 marketing=márketin
 Spotify=espótifai
 apple=ápol
+pi(zz=ts)a
 home=joum
 (i=í)nstagram
 t(e=é)legram
