@@ -63,6 +63,13 @@ mexicano=mejicano
 mexicana=mejicana
 mexicanos=mejicanos
 mexicanas=mejicanas
+; These are old, but inportant spellings, AKA grafías in Spanish, because those are still used a lot.
+texas=tejas
+Me(x=j)ía
+(X=j)iménez
+(X=j)imena
+Oa(x=j)aca
+(X=j)alapa
 ; initialisms:
 cpu/i
 gpu/i
