@@ -1,7 +1,7 @@
 ; The file must be in UTF-8.
 ; The = sign is used, but there must be no spaces between the word and its pronunciation: spaces separate individual words in collocation entries
 marketing=márketin
-Spotify=espótifai
+spotify=spótifai
 apple=ápol
 pi(zz=ts)a
 home=joum
@@ -10,7 +10,7 @@ t(e=é)legram
 (a=á)ndroid
 (a=á)mazon
 l(i=í)nux
-W(i=í)ndows
+w(i=í)ndows
 high=jay
 tw(it=í)ter
 ed(ge=ch)
@@ -19,7 +19,6 @@ bluetoot=blutut
 google=gúguel
 facebook=féisbuk
 z(oo=u)m
-fake=feik
 w(i=ai)f(i=ái)
 pl(a=e)y
 mozilla=mocila
@@ -32,7 +31,7 @@ chromebook=cróumbuk
 scr(ee=i)n
 gmail=llimeil
 (h=j)otm(a=e)il
-Office=ófis
+office=ófis
 v(ie=í)wer
 game=gueim
 pages=peidchs
@@ -51,25 +50,25 @@ lite=lait
 phone=foun
 r(ea=í)der
 p(y=ai)thon
-Fr(eu=oy)d
+fr(eu=oy)d
 ok=okey
 excel/1
 p(o=á)wer
 software=sóftuer
 hardware=járduer
 voice=vois
-México=Méjico
+méxico=méjico
 mexicano=mejicano
 mexicana=mejicana
 mexicanos=mejicanos
 mexicanas=mejicanas
 ; These are old, but inportant spellings, AKA grafías in Spanish, because those are still used a lot.
 texas=tejas
-Me(x=j)ía
-(X=j)iménez
-(X=j)imena
-Oa(x=j)aca
-(X=j)alapa
+me(x=j)ía
+(x=j)iménez
+(x=j)imena
+oa(x=j)aca
+(x=j)alapa
 ; initialisms:
 cpu/i
 gpu/i
@@ -80,6 +79,7 @@ ald/i
 imc/i
 ibm/i
 ocr/i
+oms/i
 usb/i
 cne/i
 xos/i
