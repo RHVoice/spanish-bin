@@ -40,7 +40,7 @@ brai(ll=l)e
 mouse=maus
 IPhone=áifon
 (i=ái)pad
-#whatsapp=whatsap # This is no longer necessary because we apply a rule for *app* in g2p for other words.
+;whatsapp=whatsap # This is no longer necessary because we apply a rule for *app* in g2p for other words.
 gym=llim
 f(ile=ail){,s}
 charlie=charli
@@ -70,6 +70,11 @@ me(x=j)ía
 (x=j)imena
 oa(x=j)aca
 (x=j)alapa
+; Alleged inclusive language (but why?) This is a heated discussion.
+amig(x=o)s
+chic(x=o)s
+chic(@=o)s
+herman(@=o)s
 ; initialisms:
 cpu/i
 gpu/i
