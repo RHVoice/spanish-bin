@@ -73,18 +73,6 @@ me(x=j)ía
 (x=j)imena
 oa(x=j)aca
 (x=j)alapa
-; Alleged inclusive language (but why?) This is a heated discussion.
-; We normalize some comon words using that; according to Cedillo, "esta es una falta de respeto hacia nuestra lengua".
-amig(x=o)s
-amig(@=o)s
-chic(x=o)s
-chic(@=o)s
-compañer(x=o)s
-compañer(@=o)s
-herman(x=o)s
-herman(@=o)s
-muchach(@=o)s
-muchach(x=o)s
 ; initialisms:
 cpu/i
 gpu/i
