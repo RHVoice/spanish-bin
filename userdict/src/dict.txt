@@ -74,18 +74,6 @@ me(x=j)ía
 oa(x=j)aca
 (x=j)alapa
 ; initialisms:
-cpu/i
-gpu/i
-url/i
-nvda/i
-ocds/i
-ald/i
-imc/i
-ibm/i
-ocr/i
-oms/i
-usb/i
-usd/i
-cne/i
+; Those initialisms that contains a vowel at start or end inside capital consonants was removed, since this is now controlled from the tokenizer by adding new special rules for it, which will allow the interpretation of many other initialisms of this type. Rmcpantoja's Spanish langpack is tthe first having this new feature.
 xos/i
 api/i
