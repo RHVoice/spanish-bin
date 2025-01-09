@@ -75,5 +75,4 @@ oa(x=j)aca
 (x=j)alapa
 ; initialisms:
 ; Those initialisms that contains a vowel at start or end inside capital consonants was removed, since this is now controlled from the tokenizer by adding new special rules for it, which will allow the interpretation of many other initialisms of this type. Rmcpantoja's Spanish langpack is tthe first having this new feature.
-xos/i
 api/i
