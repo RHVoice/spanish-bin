@@ -7,9 +7,10 @@ If so, these variants will be available by branches of this repository.
 
 ## Features
 
-- [Extra] currency and date support (binaries only, not registered in the core at all): These binaries translates a given currency or date format to human-speaker readable string. It probably can be available in the future by special c++ code for it.
-  - Currency: $1.25 (1 dólar y 25 centavos)
-  - Date (dd/mm/yyyy): 23/07/2025 (23 de julio del 2025)
+- [Extra] currency support (binaries only, not registered in the core at all): These binaries translates a given currency format to human-speaker readable string. It probably can be available in the future by special c++ code for it.
+  - Example: $1.25 (1 dólar y 25 centavos)
+- [Extra] date support: it applies the same function than currency, but it is now available for the core and voices. This takes a specific format, `dd/mm/yyyy` in the text.
+  - Example: 23/07/2025 (the voice will say veintitrés de julio del dos mil veinticinco)
 - Pronunciation dictionary: this is a set of the most comon foreign entries, that which needs to be pronounced as such.
   - Browsers: Chrome (croum) Firefox (fáirfox)
   - Places: Texas (tejas)
