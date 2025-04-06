@@ -17,7 +17,6 @@
 <phoneme name="x" vc="-" son="-" ctype="s" cstop="-" cplace="v" cvox="-"/>
 <phoneme name="k" vc="-" son="-" ctype="s" cstop="+" cplace="v" cvox="-"/>
 <phoneme name="l" vc="-" son="+" ctype="l" cor="+" cplace="a" cvox="+" liq="+"/>
-<phoneme name="ll" vc="-" son="+" ctype="l" cor="+" cplace="p" cvox="+" liq="+"/>
 <phoneme name="m" vc="-" son="+" ctype="n" cplace="b" clab="+" cvox="+" nas="+"/>
 <phoneme name="n" vc="-" son="+" ctype="n" cor="+" cplace="d" cvox="+" nas="+"/>
 <phoneme name="ni" vc="-" son="+" ctype="n" cor="+" cplace="d" cvox="+" nas="+"/>
@@ -30,7 +29,6 @@
 <phoneme name="v" vc="-" son="-" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
 <phoneme name="vh" vc="-" son="+" approx="+" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
 <phoneme name="w" vc="-" vlng="m" vheight="1" vfront="3" vrnd="+" son="+" ctype="g" cplace="b" clab="+" cvox="+"/>
-<phoneme name="y" vc="-" son="+" ctype="r" cplace="p" cvox="+"/>
 <phoneme name="yc" vc="" vlng="m" vheight="1" vfront="1" vrnd="-" son="+" ctype="g"  cplace="p" cvox="+"/>
 <phoneme name="zh" vc="-" son="-" cont="+" ctype="f" cplace="d" ccor="+" cvox="-"/>
 <phoneme name="pau"/>
