@@ -6,6 +6,7 @@ apple/f
 reaper/f
 pizza/f
 home/f
+chelsea/f
 l(i=í)nux
 window/f
 windows/f
