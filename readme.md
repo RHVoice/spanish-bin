@@ -13,6 +13,8 @@ If so, these variants will be available by branches of this repository.
 - Pronunciation dictionary: this is a set of the most comon foreign entries, that which needs to be pronounced as such.
   - Browsers: Chrome (croum) Firefox (fáirfox)
   - Places: Texas (tejas)
+- Newest language detection: by default is disabled, but you will be able to share phonemes between Spanish and other second language, if this second language has a vocabulary set. It is currently set for English phonemes.
+  - We probably will follow bilingual voices in the future in an individual language module for bilingual stuff, to be backward compatible with standard voices. Watch this space!
 - Pitch marks for exclaim and question sentences. All voices will interpret them by raising or lowering pitch, according to the pitch range of the speaker.
 - [Extra] Fanci normalization: we know that NVDA has own unicode normalization support. However, RHVoice is multiplatform, and these are fully supported in this language module, useful to read poems with stylized text.
 - [Extra] SAPM (Sentence-Aware Prosody Modelling): It correctly interprets prosody of Spanish words that have more than one context, and a context handles a different accentuation or stress. Rich prosody ensured, and improves experience for screen reader users.
