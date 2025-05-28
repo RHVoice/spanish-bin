@@ -17,6 +17,6 @@ If so, these variants will be available by branches of this repository.
   - We probably will follow bilingual voices in the future in an individual language module for bilingual stuff, to be backward compatible with standard voices. Watch this space!
 - Pitch marks for exclaim and question sentences. All voices will interpret them by raising or lowering pitch, according to the pitch range of the speaker.
 - [Extra] Fanci normalization: we know that NVDA has own unicode normalization support. However, RHVoice is multiplatform, and these are fully supported in this language module, useful to read poems with stylized text.
-- [Extra] SAPM (Sentence-Aware Prosody Modelling): It correctly interprets prosody of Spanish words that have more than one context, and a context handles a different accentuation or stress. Rich prosody ensured, and improves experience for screen reader users.
+- [Extra] [SAPM](https://www.tumblr.com/rhvoice-ec/774835280946528256/our-spanish-implementations-using-sentence-based) (Sentence-Aware Prosody Modelling): It correctly interprets prosody of Spanish words that have more than one context, and a context handles a different accentuation or stress. Rich prosody ensured, and improves experience for screen reader users.
 - [Extra] Special skills to handle initialisms (AKA **siglas** in Spanish): This integrates special rules, especially in tokenization, to interpret initialisms as letter sequences in an efficient way.
   - Examples: NVDA, CNE, ADN.
