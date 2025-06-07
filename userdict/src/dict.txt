@@ -6,6 +6,7 @@ apple=ápol
 r(ea=í)per
 pi(zz=ts)a{,s}
 home=joum
+chels(ea=i)
 l(i=í)nux
 w(i=í)ndow{,s}
 high=jay

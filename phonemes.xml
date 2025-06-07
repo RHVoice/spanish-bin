@@ -13,7 +13,7 @@
 <phoneme name="f" vc="-" son="-" ctype="f" cfric="+" cplace="l" clab="+" cvox="-"/>
 <phoneme name="g" vc="-" son="-" ctype="s" cstop="+" cplace="v" cvox="+"/>
 <phoneme name="gh" vc="-" son="+" approx="+" ctype="s" cplace="v" cvox="+"/>
-<phoneme name="j" vc="-" vlng="m" vheight="1" vfront="1" vrnd="-" son="+" ctype="g" cplace="p" cvox="+"/>
+<phoneme name="j" vc="-" vlng="s" vheight="1" vfront="1" vrnd="-" son="+" ctype="g" cplace="p" cvox="+"/>
 <phoneme name="x" vc="-" son="-" ctype="s" cstop="-" cplace="v" cvox="-"/>
 <phoneme name="k" vc="-" son="-" ctype="s" cstop="+" cplace="v" cvox="-"/>
 <phoneme name="l" vc="-" son="+" ctype="l" cor="+" cplace="a" cvox="+" liq="+"/>
@@ -27,11 +27,12 @@
 <phoneme name="s" vc="-" son="-" ctype="f" cfric="+" csib="+" cor="+" cplace="a" cvox="-"/>
 <phoneme name="sh" vc="-" son="-" ctype="f" csib="+" cor="+" cplace="p" cvox="-"/>
 <phoneme name="t" vc="-" son="-" ctype="s" cstop="+" cor="+" cplace="d" cvox="-"/>
+<phoneme name="uc" vc="-" vlng="s" vheight="1" vfront="3" vrnd="+" son="+" ctype="g" cplace="b" clab="+" cvox="+"/>
 <phoneme name="v" vc="-" son="-" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
 <phoneme name="vh" vc="-" son="+" approx="+" ctype="f" cfric="+" cplace="l" clab="+" cvox="+"/>
-<phoneme name="w" vc="-" vlng="m" vheight="1" vfront="3" vrnd="+" son="+" ctype="g" cplace="b" clab="+" cvox="+"/>
+<phoneme name="w" vc="-" vlng="s" vheight="1" vfront="3" vrnd="+" son="+" ctype="g" cplace="b" clab="+" cvox="+"/>
 <phoneme name="y" vc="-" son="+" ctype="r" cplace="p" cvox="+"/>
-<phoneme name="yc" vc="" vlng="m" vheight="1" vfront="1" vrnd="-" son="+" ctype="g"  cplace="p" cvox="+"/>
+<phoneme name="yc" vc="-" vlng="s" vheight="1" vfront="1" vrnd="-" son="+" ctype="g"  cplace="p" cvox="+"/>
 <phoneme name="zh" vc="-" son="-" cont="+" ctype="f" cplace="d" ccor="+" cvox="-"/>
 <phoneme name="pau"/>
 </phonemes>
