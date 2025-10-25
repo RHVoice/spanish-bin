@@ -39,6 +39,7 @@ brai(ll=l)e
 mouse=maus
 iphone=áifon
 (i=ái)pad
+(i=ái)pod
 ;whatsapp=whatsap # This is no longer necessary because I applyed a rule for *a p p* = a p in g2p for other foreign words.
 gym=llim
 f(ile=ail){,s}
