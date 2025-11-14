@@ -1,13 +1,11 @@
 ; The file must be in UTF-8.
 ; The = sign is used, but there must be no spaces between the word and its pronunciation: spaces separate individual words in collocation entries
-marketing=márketin
 spotify=spótifai
 apple=ápol
 r(ea=í)per
 pi(zz=ts)a{,s}
 home=joum
 chels(ea=i)
-l(i=í)nux
 w(i=í)ndow{,s}
 high=jay
 tw(it=í)ter
@@ -58,12 +56,15 @@ android/1
 amazon/1
 excel/1
 instagram/1
+linux/1
+marketing/1
 telegram/1
 unigram/1
 p(o=á)wer
 (software=sóftuer){,s}
 (hardware=járduer){,s}
 voice=vois
+ka(hoo=ju)t
 méxico=méjico
 mexicano=mejicano
 mexicana=mejicana
