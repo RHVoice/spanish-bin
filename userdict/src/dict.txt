@@ -35,6 +35,7 @@ page=peidch{,s}
 store=stor
 brai(ll=l)e
 mouse=maus
+icloud=áiclaud
 iphone=áifon
 (i=ái)pad
 (i=ái)pod
@@ -51,7 +52,9 @@ r(ea=í)der{,s}
 p(y=ai)thon
 fr(eu=oy)d
 drive=draiv
+dr(ive=áive)r{,s}
 ok=okey
+wireless=wairles
 android/1
 amazon/1
 excel/1
@@ -61,7 +64,7 @@ marketing/1
 telegram/1
 unigram/1
 p(o=á)wer
-(software=sóftuer){,s}
+(software=sóftuer)
 (hardware=járduer){,s}
 voice=vois
 ka(hoo=ju)t
