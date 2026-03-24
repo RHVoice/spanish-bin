@@ -7,7 +7,7 @@ pi(zz=ts)a{,s}
 home=joum
 chels(ea=i)
 w(i=í)ndow{,s}
-high=jay
+high=jai
 tw(it=í)ter
 ed(ge=ch)
 messenger=mésenller
@@ -21,17 +21,19 @@ mozilla=mocila
 f(ire=áir)fox
 youtube=yutub
 t(ea=i)m
-m(i=ái)crosoft
+M(i=ái)crosoft
+Outlook=autluk
 (mail=meil){,s}
 chrome=croum
 chromebook=cróumbuk
 scr(ee=i)n
 gmail=llimeil
 (h=j)otm(a=e)il
-office=ófis
+office=ofis
 v(ie=í)wer
 (game=gueim){,s}
-page=peidch{,s}
+l(o=á)uder
+(page=peidch){,s}
 store=stor
 brai(ll=l)e
 mouse=maus
@@ -39,22 +41,23 @@ icloud=áiclaud
 iphone=áifon
 (i=ái)pad
 (i=ái)pod
-;whatsapp=whatsap # This is no longer necessary because I applyed a rule for *a p p* = a p in g2p for other foreign words.
 gym=llim
 f(ile=ail){,s}
 charlie=charli
+chop(i=á)n
 sp(ee=i)ch
 (ju=yú)nior{,s}
 live=laiv
 lite=lait
 phone=foun
 r(ea=í)der{,s}
-p(y=ai)thon
+P(y=ai)thon
 fr(eu=oy)d
 drive=draiv
 dr(ive=áive)r{,s}
 ok=okey
 wireless=wairles
+neuro(ps=s)ic*
 android/1
 amazon/1
 excel/1
@@ -64,10 +67,13 @@ marketing/1
 telegram/1
 unigram/1
 p(o=á)wer
-(software=sóftuer)
+(software=sóftuer){,s}
 (hardware=járduer){,s}
 voice=vois
 ka(hoo=ju)t
+(A=á)vila
+(A=á)lvarez
+(E=é)instein
 méxico=méjico
 mexicano=mejicano
 mexicana=mejicana
@@ -81,5 +87,4 @@ me(x=j)ía
 oa(x=j)aca
 (x=j)alapa
 ; initialisms:
-; Those initialisms that contains a vowel at start or end inside capital consonants was removed, since this is now controlled from the tokenizer by adding new special rules for it, which will allow the interpretation of many other initialisms of this type. Rmcpantoja's Spanish langpack is tthe first having this new feature.
 api/i
