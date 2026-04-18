@@ -74,6 +74,7 @@ ka(hoo=ju)t
 (A=á)vila
 (A=á)lvarez
 (E=é)instein
+EEUU=EstadosUnidos
 méxico=méjico
 mexicano=mejicano
 mexicana=mejicana
