@@ -58,6 +58,7 @@ dr(ive=áive)r{,s}
 ok=okey
 wireless=wairles
 neuro(ps=s)ic*
+para(ps=s)ic*
 android/1
 amazon/1
 excel/1
@@ -74,6 +75,7 @@ ka(hoo=ju)t
 (A=á)vila
 (A=á)lvarez
 (E=é)instein
+EEUU=EstadosUnidos
 méxico=méjico
 mexicano=mejicano
 mexicana=mejicana
